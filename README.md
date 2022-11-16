@@ -7,6 +7,4 @@ Models and Methods Used:
 - Logisitc Regression
 - Vector Classification
 - Extreme Gradient Boosting (XGBoost Classifier)
-- Hyperturning parameters
-- Evaluating machine learning model errors
 - Pickle model
